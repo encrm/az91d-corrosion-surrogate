@@ -24,4 +24,4 @@ Reproduction sequence
 4. Set the data-location environment variables and run the training and evaluation scripts in code/machine_learning.
 5. Compare the outputs with the tables in results. The five final checkpoints are provided for evaluation without retraining.
 
-The field-data repository link and the license for reuse have not yet been assigned. This local copy is not a complete public release until those items and the COMSOL model input are resolved.
+The full field dataset and the proprietary COMSOL model input are not included in this repository. Access information for the separate field-data deposit will be added when it becomes available.
