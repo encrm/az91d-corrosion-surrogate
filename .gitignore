@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.log
+*.tmp
+*.bin
+*.mph
+*.npy
+*.npz
+*.dat
+Thumbs.db
+.DS_Store

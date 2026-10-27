@@ -1,0 +1,13 @@
+﻿time_group,metric,five_seed_mean,sample_sd_ddof1,seed_count
+all_nonzero,delta_phase_relative_l2,0.04645632310316731,0.01323240949067291,5
+all_nonzero,interface_mae_nm,7.292568182048372,2.1919789509013725,5
+all_nonzero,maximum_depth_mae_nm,12.23399178043262,5.11061183379072,5
+training_grid,delta_phase_relative_l2,0.047858480818535165,0.01218407043429227,5
+training_grid,interface_mae_nm,5.309640296092804,1.5389137135420718,5
+training_grid,maximum_depth_mae_nm,8.98795410148428,3.744224669566278,5
+withheld_interpolation,delta_phase_relative_l2,0.045204837980961046,0.013049277164778375,5
+withheld_interpolation,interface_mae_nm,6.615016436433306,1.9813196117982066,5
+withheld_interpolation,maximum_depth_mae_nm,10.995520772131128,4.7314445490509565,5
+further_time_probes,delta_phase_relative_l2,0.04530410928474296,0.015223325517680568,5
+further_time_probes,interface_mae_nm,11.369424875015838,3.5225519333830846,5
+further_time_probes,maximum_depth_mae_nm,19.03709880978841,7.842532273314801,5
